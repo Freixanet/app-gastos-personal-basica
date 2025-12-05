@@ -20,7 +20,7 @@
 
 **Mis Finanzas** es una aplicación de gestión de gastos rediseñada con una estética moderna. 
 
-El proyecto transforma una lista de tareas básica en una experiencia **Premium** utilizando **Glassmorphism**, animaciones fluidas y una arquitectura de código limpia y sin dependencias.
+El proyecto ofrece una experiencia **Premium** utilizando **Glassmorphism**, animaciones fluidas y una arquitectura de código limpia y sin dependencias.
 
 > "Diseño es inteligencia hecha visible."
 
